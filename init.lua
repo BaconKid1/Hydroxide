@@ -5,7 +5,7 @@ if oh then
 end
 
 local web = true
-local user = "BaconKid1" -- change if you're using a fork
+local user = "baconkiddy" -- change if you're using a fork
 local branch = "revision"
 local importCache = {}
 
